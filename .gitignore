@@ -1,4 +1,8 @@
-*.iml
-target/*
+*.log
+/target
+grails-d3-*.zip
+grails-d3-*.zip.sha1
 plugin.xml
+*.iml
 *.db
+web-app/WEB-INF
