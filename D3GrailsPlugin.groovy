@@ -1,5 +1,5 @@
 class D3GrailsPlugin {
-    def version = "3.3.3.0"
+    def version = "3.3.9.0"
     def grailsVersion = "2.0 > *"
     def pluginExcludes = [
             "grails-app/views/*"
