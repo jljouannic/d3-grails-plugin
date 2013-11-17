@@ -11,14 +11,14 @@ Installation
 Edit `BuildConfig.groovy` and add the following plugin dependency:
 
 ```Groovy
-runtime ":d3:3.3.3.0"
+runtime ":d3:3.3.9.0"
 ```
 
 ###Version number
 
 The version number of this plugin follows the version number of the D3.js version it bundles, with possible 4th-level point releases for patches/iterations of the plugin with the same D3.js library.
 
-For example, the first release of this plugin is 3.3.3.0 because it provides D3.js 3.3.3. If there was a problem with this release, this might change to 3.3.3.1, 3.3.3.2, etc.
+For example, the first release of this plugin is 3.3.9.0 because it provides D3.js 3.3.9. If there was a problem with this release, this might change to 3.3.9.1, 3.3.9.2, etc.
 
 Usage
 ---
