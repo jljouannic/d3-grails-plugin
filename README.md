@@ -18,7 +18,7 @@ runtime ":d3:3.4.6.0"
 
 The version number of this plugin follows the version number of the D3.js version it bundles, with possible 4th-level point releases for patches/iterations of the plugin with the same D3.js library.
 
-For example, the first release of this plugin is 3.4.6.0 because it provides D3.js 3.4.6. If there was a problem with this release, this might change to 3.4.6.0, 3.4.6.0, etc.
+For example, the first release of this plugin is 3.4.6.0 because it provides D3.js 3.4.6. If there was a problem with this release, this might change to 3.4.6.1, 3.4.6.2, etc.
 
 Usage
 ---
