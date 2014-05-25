@@ -1,5 +1,5 @@
 class D3GrailsPlugin {
-    def version = "3.4.6.0"
+    def version = "3.4.8.0"
     def grailsVersion = "2.0 > *"
     def pluginExcludes = [
             "grails-app/views/*"
@@ -7,7 +7,7 @@ class D3GrailsPlugin {
 
     def title = "D3 resources"
     def author = "Jean-Louis Jouannic"
-    def authorEmail = "jeanlouis.jouannic+github@gmail.com"
+    def authorEmail = "jeanlouis.jouannic+d3grailsplugin@gmail.com"
     def description = '''Provides resource files for the D3.js JavaScript library.'''
     def documentation = "http://grails.org/plugin/d3"
 
